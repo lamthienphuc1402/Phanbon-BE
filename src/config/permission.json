@@ -1,0 +1,231 @@
+[
+  {
+    "id": 0,
+    "namePermission": "Manager",
+    "action": "manage",
+    "subject": "all"
+  },
+  {
+    "id": 1,
+    "namePermission": "ReadAdmin",
+    "action": "read",
+    "subject": "admin"
+  },
+  {
+    "id": 2,
+    "namePermission": "CreateAdmin",
+    "action": "create",
+    "subject": "admin"
+  },
+  {
+    "id": 3,
+    "namePermission": "DeleteAdmin",
+    "action": "delete",
+    "subject": "admin"
+  },
+  {
+    "id": 4,
+    "namePermission": "UpdateAdmin",
+    "action": "update",
+    "subject": "admin"
+  },
+  {
+    "id": 5,
+    "namePermission": "blockAdmin",
+    "action": "block",
+    "subject": "admin"
+  },
+  {
+    "id": 6,
+    "namePermission": "ReadProduct",
+    "action": "read",
+    "subject": "product"
+  },
+  {
+    "id": 7,
+    "namePermission": "CreateProduct",
+    "action": "create",
+    "subject": "product"
+  },
+  {
+    "id": 8,
+    "namePermission": "DeleteProduct",
+    "action": "delete",
+    "subject": "product"
+  },
+  {
+    "id": 9,
+    "namePermission": "UpdateProduct",
+    "action": "update",
+    "subject": "product"
+  },
+  {
+    "id": 10,
+    "namePermission": "ReadCategory",
+    "action": "read",
+    "subject": "category"
+  },
+  {
+    "id": 11,
+    "namePermission": "CreateCategory",
+    "action": "create",
+    "subject": "category"
+  },
+  {
+    "id": 12,
+    "namePermission": "DeleteCategory",
+    "action": "delete",
+    "subject": "category"
+  },
+  {
+    "id": 13,
+    "namePermission": "UpdateCategory",
+    "action": "update",
+    "subject": "category"
+  },
+  {
+    "id": 14,
+    "namePermission": "ReadWareHouse",
+    "action": "read",
+    "subject": "warehouse"
+  },
+  {
+    "id": 15,
+    "namePermission": "CreateWareHouse",
+    "action": "create",
+    "subject": "warehouse"
+  },
+  {
+    "id": 16,
+    "namePermission": "ReadSupplier",
+    "action": "read",
+    "subject": "supplier"
+  },
+  {
+    "id": 17,
+    "namePermission": "CreateSupplier",
+    "action": "create",
+    "subject": "supplier"
+  },
+  {
+    "id": 18,
+    "namePermission": "DeleteSupplier",
+    "action": "delete",
+    "subject": "supplier"
+  },
+  {
+    "id": 19,
+    "namePermission": "UpdateSupplier",
+    "action": "update",
+    "subject": "supplier"
+  },
+  {
+    "id": 20,
+    "namePermission": "ReadPurchaseInvoice",
+    "action": "read",
+    "subject": "purchaseInvoice"
+  },
+  {
+    "id": 21,
+    "namePermission": "CreatePurchaseInvoice",
+    "action": "create",
+    "subject": "purchaseInvoice"
+  },
+  {
+    "id": 22,
+    "namePermission": "ReadHistory",
+    "action": "read",
+    "subject": "history"
+  },
+  {
+    "id": 23,
+    "namePermission": "ReadApprovePurchaseInvoice",
+    "action": "read",
+    "subject": "approvePurchaseInvoice"
+  },
+  {
+    "id": 24,
+    "namePermission": "ApprovePurchaseInvoice",
+    "action": "approve",
+    "subject": "approvePurchaseInvoice"
+  },
+  {
+    "id": 25,
+    "namePermission": "ReadPayable",
+    "action": "read",
+    "subject": "payable"
+  },
+  {
+    "id": 26,
+    "namePermission": "UpdatePayable",
+    "action": "update",
+    "subject": "payable"
+  },
+  {
+    "id": 27,
+    "namePermission": "CreateReceivable",
+    "action": "create",
+    "subject": "receivable"
+  },
+  {
+    "id": 28,
+    "namePermission": "ReadReceivable",
+    "action": "read",
+    "subject": "receivable"
+  },
+  {
+    "id": 29,
+    "namePermission": "CreateReceivable",
+    "action": "update",
+    "subject": "receivable"
+  },
+  {
+    "id": 30,
+    "namePermission": "CreateSalesinvoice",
+    "action": "create",
+    "subject": "salesinvoice"
+  },
+  {
+    "id": 31,
+    "namePermission": "ReadSalesinvoice",
+    "action": "read",
+    "subject": "salesinvoice"
+  },
+  {
+    "id": 32,
+    "namePermission": "UpdateSalesinvoice",
+    "action": "update",
+    "subject": "salesinvoice"
+  }
+  ,
+  {
+    "id": 33,
+    "namePermission": "CreateUser",
+    "action": "create",
+    "subject": "user"
+  },
+  {
+    "id": 34,
+    "namePermission": "ReadUser",
+    "action": "read",
+    "subject": "user"
+  },
+  {
+    "id": 35,
+    "namePermission": "UpdateUser",
+    "action": "update",
+    "subject": "user"
+  },
+  {
+    "id": 34,
+    "namePermission": "ReadRevenueReport",
+    "action": "read",
+    "subject": "revenue-report"
+  },
+  {
+    "id": 35,
+    "namePermission": "CreateRevenueReport",
+    "action": "create",
+    "subject": "revenue-report"
+  }
+]
